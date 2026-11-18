@@ -34,11 +34,9 @@ I'm documenting my daily learning, coding practice, problem-solving approach, an
 
 ## 📅 Progress Tracker
 
-Update the status and links as each day is completed.
-
 | Day | Focus | Status |
 |---|---|---|
-| [Day 01](Day-001/) | C++ setup, program structure, input/output, variables and operators | 🟡 In progress |
+| [Day 01](Day-001/) | C++ boilerplate, printing, variables, and strings | 🟡 In progress |
 | Day 02–100 | Follow the roadmap above | ⬜ Not started |
 
 **Legend:** 🟢 Completed · 🟡 In progress · ⬜ Not started
