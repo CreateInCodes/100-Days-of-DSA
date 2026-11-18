@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    const double pi = 3.141592653589793;
+    const double pi = 3.141;
     double radius;
 
     std::cout << "Enter the radius: ";
